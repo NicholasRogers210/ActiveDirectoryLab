@@ -37,14 +37,14 @@ Configure NAT and routing to allow the clients on the private network to reach t
 <img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20121554.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-section:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set up a DHCP on the DC, so when a Windows 10 machine is created i.e.(Client_1) the machine will be able to get an IP address.:  <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Section:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+<br />
 <!--
  ```diff
 - text in red
