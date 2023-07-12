@@ -37,11 +37,11 @@ Configure NAT and routing to allow the clients on the private network to reach t
 <img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20121554.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Set up a DHCP Server on the DC, so when a Windows 10 machine is created i.e.(Client_1) the machine will be able to get an IP address.:  <br/>
+Set up a DHCP Server on the DC, so when a Windows 10 machine is created i.e.(Client_1) the machine will be able to get an IP address:  <br/>
 <img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20121957.png" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
-Section:  <br/>
+Run a PowerShell script to automatically create 1000 users for the Active Directory in the DC:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
