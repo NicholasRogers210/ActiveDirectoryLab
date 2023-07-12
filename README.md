@@ -46,7 +46,7 @@ Run a PowerShell script to automatically create 1000 users for the Active Direct
 <br />
 <br />
 Create another VM and install Windows 10 on it, which will be connected to the private virtual box network:  <br/>
-<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-12%20011208.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-12%20144146.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Client_1 connecting to the internet through the DC:  <br/>
