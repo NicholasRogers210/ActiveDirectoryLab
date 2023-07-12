@@ -18,23 +18,23 @@ This Lab consists of creating a virtual machine to act as a domain controller, c
 
 <p align="center">
 Launch the virtual box and create the VM which will act as the domain controller: <br/>
-<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20105637.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20105637.png" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
 Add two network adapters, one internal and one external:  <br/>
-<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20112609.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20112609.png" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
 Assign IP addresses to the internal network: <br/>
-<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20113704.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20113704.png" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
 Name the server and install the Active Directory:  <br/>
-<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20113924.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20113924.png" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
 Configure NAT and routing to allow the clients on the private network to reach the internet through the DC:  <br/>
-<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20121554.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20121554.png" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
 Set up a DHCP Server on the DC, so when a Windows 10 machine is created i.e.(Client_1) the machine will be able to get an IP address:  <br/>
@@ -42,15 +42,15 @@ Set up a DHCP Server on the DC, so when a Windows 10 machine is created i.e.(Cli
 <br />
 <br />
 Run a PowerShell script to automatically create 1000 users for the Active Directory in the DC:  <br/>
-<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-12%20010651.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-12%20010651.png" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
 Create another VM and install Windows 10 on it, which will be connected to the private Virtual Box Network:  <br/>
-<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-12%20144146.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-12%20144146.png" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
 Client_1 connecting to the internet through the DC:  <br/>
-<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-12%20021732.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-12%20021732.png" height="80%" width="80%" alt="Active Directory Lab"/>
 </p>
 <br />
 <!--
