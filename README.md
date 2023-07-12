@@ -1,7 +1,7 @@
 <h1>Active Directory Lab</h1>
 
 <h2>Description</h2>
-In this lab, I demonstrate how to set up an active directory and create 1000 users utilizing powershell.
+Project consists of creating a virtual machine to act as a domain controller, which will contain the active directory. This virtual machine will be given two network adapters, one will be used to connect to the internet and the other will connect to the virtual box private network, that the "clients" will connect to. After the virutal machine is created I will install Windows server 2019 on it and assign IP addressing to the internal network (the external network automatically gets an IP address from the home network). After IP addressing is setup, I name the server, then install Active Directory and create the domain. After, I configure NAT and routing to allow the clients on the private network can reach the internet through the domain controller. Then I will setup a DHCP on the DC, so when windows 10 machine is created ie(Client_1) the machine will be able to get an IP address. Then I run a powershell script to automatically create 1000 users for the Active Directory in the DC. Finally, I will create another VM and install windows 10 on it which will be connected to the private virtual box network, the VM will be named "Client_1" and it will be joined to the domain, then i log into it with one of the domain accounts.
 <br />
 
 
