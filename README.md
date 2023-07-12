@@ -21,8 +21,8 @@ Launch the virtual box and create the VM which will act as the domain controller
 <img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20105637.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Section:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add two network adapters, one internal and one external:  <br/>
+<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20112609.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Section: <br/>
