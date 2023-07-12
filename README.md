@@ -17,8 +17,8 @@ In this lab, I demonstrate how to set up an active directory and create 1000 use
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch the utility and create domain controller: <br/>
+<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20105637.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Section:  <br/>
