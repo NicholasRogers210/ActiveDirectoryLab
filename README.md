@@ -17,7 +17,7 @@ This Lab consists of creating a virtual machine to act as a domain controller, c
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility and create domain controller: <br/>
+Launch the virtual box and create the VM which will act as the domain controller: <br/>
 <img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20105637.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
