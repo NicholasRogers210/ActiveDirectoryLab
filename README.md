@@ -33,8 +33,8 @@ Name the server and install the Active Directory:  <br/>
 <img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20113924.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Section:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure NAT and routing to allow the clients on the private network to reach the internet through the DC:  <br/>
+<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20121554.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 section:  <br/>
