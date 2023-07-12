@@ -29,8 +29,8 @@ Assign IP addresses to the internal network: <br/>
 <img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20113704.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Section:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Name the server and install the Active Directory:  <br/>
+<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20113924.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Section:  <br/>
