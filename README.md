@@ -26,7 +26,7 @@ Add two network adapters, one internal and one external:  <br/>
 <br />
 <br />
 Assign IP addresses to the internal network: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/Images/Screenshot%202023-07-11%20113704.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Section:  <br/>
