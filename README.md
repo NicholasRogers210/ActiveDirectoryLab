@@ -1,18 +1,18 @@
 <h1>Active Directory Lab</h1>
 
 <h2>Description</h2>
-Description
+In this lab, I demonstrate how to set up an active directory and create 1000 users utilizing powershell.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Language</b> 
-- <b>Utility</b>
+- <b>Powershell</b> 
+- <b>Oracle Virtual Box</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10 or 11</b>
+- <b>Windows 10</b>
 
 <h2>Program walk-through:</h2>
 
