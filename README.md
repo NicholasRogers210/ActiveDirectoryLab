@@ -1,7 +1,16 @@
 <h1>Active Directory Lab</h1>
 
 <h2>Description</h2>
-This Lab consists of creating a virtual machine to act as a domain controller, containing the Active Directory. This VM will be given two network adapters, one will be used to connect to the internet and the other will connect to the virtual box private network that the "clients" will connect to. After the VM is created I will install Windows Server 2019 on it and assign IP addresses to the internal network (the external network automatically gets an IP address from the home network). After IP addressing is set up, I name the server, then install Active Directory and create the domain. After that, I configure NAT and routing to allow the clients on the private network to reach the internet through the DC. Then I will set up a DHCP on the DC, so when a Windows 10 machine is created i.e.(Client_1) the machine will be able to get an IP address. Then I run a PowerShell script to automatically create 1000 users for the Active Directory in the DC. Finally, I will create another VM and install Windows 10 on it, which will be connected to the private virtual box network. The VM will be named "Client_1" and it will be joined to the domain, then I log into it with one of the domain accounts.
+In this lab, we will embark on the creation of a virtual machine that will serve as a domain controller, housing the Active Directory. To establish connectivity, the VM will be equipped with two network adapters. One adapter will facilitate internet access, while the other will connect to the virtual box private network, enabling the "clients" to connect. 
+
+Once the VM is successfully created, we will proceed to install Windows Server 2019 and configure IP addresses for the internal network. The external network will automatically acquire an IP address from the home network. With the IP addressing in place, we will assign a name to the server and proceed to install Active Directory, thereby creating the domain. 
+
+To ensure seamless internet access for the clients on the private network, we will configure NAT and routing. Additionally, a DHCP will be set up on the domain controller, allowing any Windows 10 machine, such as "Client_1," to obtain an IP address. 
+
+To expedite the process of user creation within the Active Directory, we will execute a PowerShell script that will generate 1000 users. This will enhance the functionality of the domain controller. 
+
+Lastly, we will create another virtual machine and install Windows 10 on it. This machine, named "Client_1," will be connected to the private virtual box network and joined to the domain. We will then log into "Client_1" using one of the domain accounts, completing the setup.
+
 <br />
 
 
