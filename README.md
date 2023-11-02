@@ -5,7 +5,7 @@ In this lab, we will embark on the creation of a virtual machine that will serve
 
 Once the VM is successfully created, we will proceed to install Windows Server 2019 and configure IP addresses for the internal network. The external network will automatically acquire an IP address from the home network. With the IP addressing in place, we will assign a name to the server and proceed to install Active Directory, thereby creating the domain. 
 
-To ensure seamless internet access for the clients on the private network, we will configure NAT and routing. Additionally, a DHCP will be set up on the domain controller, allowing any Windows 10 machine, such as "Client_1," to obtain an IP address. 
+To ensure internet access for the clients on the private network, we will configure NAT and routing. Additionally, a DHCP will be set up on the domain controller, allowing any Windows 10 machine, such as "Client_1," to obtain an IP address. 
 
 To expedite the process of user creation within the Active Directory, we will execute a PowerShell script that will generate 1000 users. This will enhance the functionality of the domain controller. 
 
